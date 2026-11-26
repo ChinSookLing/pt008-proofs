@@ -36,11 +36,8 @@
 | A49-T01 | 封版原程式、固定例、遮罩及重放日誌 | `PT008-TF-R002-A49-T01-selector-v0.1.zip` | 57,657 | `f2a09e1251c71b2bb25f7f564521f0a5236eb08dd3c2d3a0cc2e2b8c5997a54a` |
 | A41 | Z=11 原證書 | `a41_code.zip` | 30,027,508 | `f2e636e561483abb2f8b1472b94d4f684ef43703a4b300bf4341dbe15311a1ae` |
 | A45-O01 | 閉胞讀出及完備性，PolyT45.lean 與檢查紀錄 | `PT008-TF-R002-A45-O01.zip` | 142,714 | `fd824ac061536ace11b9e9a101cfdebb3c5ad549662feb5171d82cf579fe0754` |
-
-## 待補
-
-- A49-C02 封版裁決原件 `PT008-T6-CLOSING-A49-C02.md`（SHA-256 `d205d20b941ad63bb9c0de80e8abc0de4b30ef7a089704b43452580140f90559`）
-- A45／A46 精確重放 `PT008-T6-A45-A46-exact-replay.zip`（SHA-256 `0cebd90e830ed318806bbab0d96973f3a587e68b82e7d54cb2afdb7804d27b03`）
+| A49-C02 | 封版裁決、平面飽和性與兩種計數口徑 | `PT008-T6-CLOSING-A49-C02.md` | 3,786 | `d205d20b941ad63bb9c0de80e8abc0de4b30ef7a089704b43452580140f90559` |
+| A45／A46 精確重放 | 主席續存的獨立核對原碼、重放入口和參照輸出 | `PT008-T6-A45-A46-exact-replay.zip` | 14,913 | `0cebd90e830ed318806bbab0d96973f3a587e68b82e7d54cb2afdb7804d27b03` |
 
 R002 歷史補檔為內部交接包，不列入公開鏡像。
 
