@@ -38,6 +38,7 @@
 | A45-O01 | 閉胞讀出及完備性，PolyT45.lean 與檢查紀錄 | `PT008-TF-R002-A45-O01.zip` | 142,714 | `fd824ac061536ace11b9e9a101cfdebb3c5ad549662feb5171d82cf579fe0754` |
 | A49-C02 | 封版裁決、平面飽和性與兩種計數口徑 | `PT008-T6-CLOSING-A49-C02.md` | 3,786 | `d205d20b941ad63bb9c0de80e8abc0de4b30ef7a089704b43452580140f90559` |
 | A45／A46 精確重放 | 主席續存的獨立核對原碼、重放入口和參照輸出 | `PT008-T6-A45-A46-exact-replay.zip` | 14,913 | `0cebd90e830ed318806bbab0d96973f3a587e68b82e7d54cb2afdb7804d27b03` |
+| C36 | 六跑者兩組孤立安全時刻：整數幾何證書（225 上界）與分母 ≤30 掃描 | `PT008-TF-R003a-C36-certificate.zip` | 9,018 | `13e166219a8a0053d9d2130e7e4cd9abb4d1ade020e879dbbdb77de84603aae3` |
 
 R002 歷史補檔為內部交接包，不列入公開鏡像。
 
